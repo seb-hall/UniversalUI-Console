@@ -1,3 +1,3 @@
-#UniversalUI Console for Linux
+# UniversalUI Console for Linux
 
 Requires an installation of GTK.
